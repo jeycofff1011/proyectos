@@ -6,17 +6,9 @@
 package estructurasdedatos.cap1.complejidad;
 
 /**
- * @author jerycoff
+ *
+ * @author jeycoff
  */
-public class Ciclos {
-    public void ciclo1(){
-        
+class i {
     
-   
-for(int i=0;i<=100;i++)// ciclo de 0 a 100
-        {
-        System.out.println(i);//muestra los numeros de 0 a 100
-        }
-    
-    }
 }
