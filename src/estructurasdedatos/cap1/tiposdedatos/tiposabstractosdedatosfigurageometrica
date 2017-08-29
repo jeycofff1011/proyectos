@@ -1,0 +1,12 @@
+public class FiguraGeometrica
+  
+    FiguraGeometrica figura = new FiguraGeometrica();{
+    private short codigo;
+    private String tipo;
+    private String nombre;
+  }
+  public void crearfigura (short codigo;String tipo;String nombre);
+  system.out.println("creando figura");
+  public void calculoarea (short codigo;String tipo;String nombre);
+  system.out.println("calculando el area");
+  
